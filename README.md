@@ -7,6 +7,8 @@ The purpose of the analysis is to assist Maria, a data scientist working with th
 How is the district summary affected? 
 The district summary was not greatly impacted by the test scores of the ninth-graders at Thomas High School, because they made up a relatively small number of the population(461) as compared to the entire student population in the district (39,170).
 
+ ![Alt Text]C:\Users\wiza3\OneDrive\Desktop\Analysis Projects\School_District_Analysis\Resources()
+ 
 #### School Summary
 How is the school summary affected?
 As a result of the smaller population within the school (1635 students), there was a greater impact on the test scores. By omitting the nineth graders the passing math percent decreased from 93.3% to 66.91%. The reading test scores also decreased from 97.3% to 69.7%.
