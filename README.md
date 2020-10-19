@@ -7,6 +7,7 @@ The purpose of the analysis is to assist Maria, a data scientist working with th
 How is the district summary affected? 
 The district summary was not greatly impacted by the test scores of the ninth-graders at Thomas High School, because they made up a relatively small number of the population(461) as compared to the entire student population in the district (39,170).
 
+![](images/summary_org.png)
 
  
 #### School Summary
